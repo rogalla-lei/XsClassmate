@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resource/bean.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -383,12 +383,12 @@
       <workItem from="1564664701498" duration="1842000" />
       <workItem from="1564738106894" duration="1877000" />
       <workItem from="1570594780121" duration="357000" />
-      <workItem from="1570675661302" duration="30000" />
+      <workItem from="1570675661302" duration="185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32351000" />
+    <option name="totallyTimeSpent" value="32506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,6 +401,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25763127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -593,7 +594,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resource/bean.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
