@@ -1,4 +1,4 @@
-package xsclassDemo.dao;
+package xsclassDemo.entity;
 
 import java.util.Date;
 
@@ -65,5 +65,18 @@ public class Thesis {
 
     public int getThesisID() {
         return thesisID;
+    }
+
+    @Override
+    public String toString() {
+        return "Thesis{" +
+                "thesisID=" + thesisID +
+                ", editorID=" + editorID +
+                ", title='" + title + '\'' +
+                ", date=" + date +
+                ", content='" + content + '\'' +
+                ", likeAccount=" + likeAccount +
+                ", viewAccount=" + viewAccount +
+                '}';
     }
 }

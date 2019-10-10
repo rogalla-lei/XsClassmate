@@ -1,4 +1,4 @@
-package xsclassDemo.dao;
+package xsclassDemo.entity;
 
 public class Connect {
     private String url;
